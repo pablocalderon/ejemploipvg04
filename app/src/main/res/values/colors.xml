@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Arquitectura100" >#99B4BF</color>
+    <color name="Arquitectura200" >#58788C</color>
+    <color name="Arquitectura300" >#253C59</color>
+    <color name="Arquitectura400" >#D9B70D</color>
+    <color name="Arquitectura500" >#BF8D30</color>
+</resources>
